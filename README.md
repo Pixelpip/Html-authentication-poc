@@ -18,3 +18,25 @@ I have added bootstrap 5 to this project and made it responsive.
 - `dashboard.html` - User Dashboard Page
 - `styles.css` - Custom styling rules
 - `screenshots/` - Screenshots of all pages
+
+## Images
+
+### Login
+![login](screenshots/login.png)
+
+### Dashboard
+![dashboard](screenshots/dashboard.png)
+
+### Forgot-password
+![login](screenshots/forgot-password.png)
+
+### Register
+![login](screenshots/register.png)
+
+### Reset password
+![login](screenshots/reset-password.png)
+
+
+
+
+
